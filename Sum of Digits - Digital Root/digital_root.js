@@ -1,1 +1,0 @@
-digital_root = function (n) {return (--n % 9 + 1);}
