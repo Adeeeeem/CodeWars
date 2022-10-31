@@ -3,5 +3,5 @@
 
 long int findNextSquare(long int sq)
 {
-	return (round(sqrt(sq)) == sqrt(sq)) ? (long) (sqrt(sq) + 1) * (long) (sqrt(sq) + 1) : -1;
+	return (round(sqrt(sq)) == sqrt(sq)) ? pow((sqrt(sq) + 1), 2) : -1;
 }
