@@ -2,11 +2,6 @@
 
 This repository contains solutions to various challenges from [CodeWars](https://www.codewars.com/), a platform for practicing and improving coding skills. The challenges are organized by language and difficulty level.
 
-## Challenges Included
-
-- [Byte me!](https://www.codewars.com/kata/636f26f52aae8fcf3fa35819)
-- [Multiply](https://www.codewars.com/kata/50654ddff44f800200000004)
-
 ## Notes
 
 - All solutions have been tested and verified to work correctly.
